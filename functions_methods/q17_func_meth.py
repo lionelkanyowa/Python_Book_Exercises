@@ -14,7 +14,7 @@ say(max(string1.upper(), string2.lower()))
 # say
 
 # Built-in functions:
-# print, input,max
+# print,input,max
 
 # method names:
 # upper, lower
