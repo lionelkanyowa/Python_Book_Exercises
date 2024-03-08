@@ -7,3 +7,11 @@ another_list = list(my_list)
 # Are the nested lists at index 3 of my_list and another_list the same object?
 
 # Don't Write any code for this exercise
+
+# They are equal because they are identical
+# No they are different objects
+# Yes they are equal, they are identical and contain the same elements
+# The lists are the same object because the list constructor performs a shallow copy.
+
+
+
